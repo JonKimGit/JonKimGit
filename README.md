@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jon
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning back-end development
-- 💞️ I’m looking to collaborate on freelance projects
+- 🌱 I’m currently learning Back-End Development
+- 💞️ I’m looking for a UI/UX Engineering/ Content Management position
 - 📫 How to reach me: jonjkim@outlook.com
 
 <!---
